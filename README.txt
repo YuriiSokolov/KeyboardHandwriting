@@ -1,0 +1,2 @@
+These two programs are designed to demonstrate the operation of authentication based on the keyboard handwriting.
+In the folder KeyboardHandwriting there is a program for learning the system, and in the folder KeyboardHandwritingAuthetication, the data collected by the training program is used to authenticate the user.
