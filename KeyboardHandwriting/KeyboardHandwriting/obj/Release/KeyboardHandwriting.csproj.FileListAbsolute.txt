@@ -1,0 +1,10 @@
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\bin\Release\KeyboardHandwriting.exe.config
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\bin\Release\KeyboardHandwriting.exe
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\bin\Release\KeyboardHandwriting.pdb
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.LoginForm.resources
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.Properties.Resources.resources
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.TrainingProgram.resources
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.csproj.GenerateResource.Cache
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.exe
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.pdb
+E:\Lab S OP\rgr\KeyboardHandwriting\KeyboardHandwriting\obj\Release\KeyboardHandwriting.csprojResolveAssemblyReference.cache

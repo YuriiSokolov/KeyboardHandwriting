@@ -1,0 +1,9 @@
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\bin\Release\KeyboardHandwritingAuthentication.exe.config
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\bin\Release\KeyboardHandwritingAuthentication.exe
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\bin\Release\KeyboardHandwritingAuthentication.pdb
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\obj\Release\KeyboardHandwritingAuthentication.csprojResolveAssemblyReference.cache
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\obj\Release\KeyboardHandwritingAuthentication.LoginForm.resources
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\obj\Release\KeyboardHandwritingAuthentication.Properties.Resources.resources
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\obj\Release\KeyboardHandwritingAuthentication.csproj.GenerateResource.Cache
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\obj\Release\KeyboardHandwritingAuthentication.exe
+E:\Lab S OP\rgr\KeyboardHandwritingAuthentication\KeyboardHandwritingAuthentication\obj\Release\KeyboardHandwritingAuthentication.pdb
